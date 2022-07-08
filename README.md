@@ -1,2 +1,3 @@
 # student_performance
-Este repositório destina-se a guardar os códigos da análise de performance de estudantes
+
+Este será um projeto de análise exploratória de dados para entender quais são os aspectos que mais impactam nas notas dos estudantes.
